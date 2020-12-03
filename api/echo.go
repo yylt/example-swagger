@@ -6,6 +6,7 @@ import (
 )
 
 func (a *Api) getEchoHandler(params operations.GetEchoParams) middleware.Responder {
+	// todo
 	return middleware.NotImplemented("not impl")
 }
 
